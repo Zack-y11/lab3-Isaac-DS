@@ -22,7 +22,7 @@ git clone https://github.com/Zack-y11/lab3-Isaac-DS.git
 # Navegar al directorio del proyecto
 cd lab3-Isaac-DS
 
-# Comando de ejemplo para instalar dependencias
+# Comando para buildear el ejecutable, sino funciona probar invirtiendo la pleca "\"
 ./gradlew build
 
 # Navegar al directorio del ejecutable

@@ -1,6 +1,6 @@
 # Lab 3 - Isaac DS
 
-Este repositorio contiene el código para el Lab 3 del curso de Isaac DS.
+Este repositorio contiene el código para el Lab 3 del curso Estructura de Datos.
 
 ## Tabla de Contenidos
 
@@ -9,7 +9,7 @@ Este repositorio contiene el código para el Lab 3 del curso de Isaac DS.
 
 ## Introducción
 
-Proporciona una breve introducción al proyecto. Describe su propósito y lo que pretende lograr.
+Este programa implementa y demuestra varios conceptos fundamentales de la programación algorítmica, incluyendo algoritmos recursivos y métodos de ordenamiento.
 
 ## Instalación
 
